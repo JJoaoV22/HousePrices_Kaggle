@@ -1,6 +1,6 @@
 # Predicting Housing Prices with Linear Regression
 
-- Este notebook faz parte de um projeto no qual utilizei técnicas de Machine Learning, incluindo regressão linear, para prever os preços de imóveis em Ames, Iowa. A competição ocorreu no Kaggle e consistiu em prever os preços com base em 79 variáveis fornecidas nos conjuntos de dados.
+- Este notebook faz parte de um projeto no qual utilizei técnicas de Machine Learning com python, incluindo regressão linear, para prever os preços de imóveis em Ames, Iowa. A competição ocorreu no Kaggle e consistiu em prever os preços com base em 79 variáveis fornecidas nos conjuntos de dados.
 
 # Objetivo
 
