@@ -26,5 +26,5 @@
  
 # Resultados
 
-Após treinar e validar o modelo, obtive um resultado satisfatório, com um erro médio de previsão de 0.15, utilizando a métrica adequada. Esse resultado me posicionou em 2500º lugar no ranking global da competição no Kaggle.
+- Após treinar e validar o modelo, obtive um resultado satisfatório, com um erro médio de previsão de 0.15, utilizando a métrica adequada. Esse resultado me posicionou em 2500º lugar no ranking global da competição no Kaggle.
 
